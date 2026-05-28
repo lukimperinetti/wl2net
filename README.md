@@ -1,4 +1,4 @@
-# wl2net — Transpileur WLangage (WinDev/WebDev) → C# (.NET)
+# [Vibe coding] - wl2net — Transpileur WLangage (WinDev/WebDev) → C# (.NET)
 
 Outil en ligne de commande qui parse du code **WLangage exporté en texte** et
 génère du **C# lisible et maintenable**. Conçu pour accélérer la migration de
